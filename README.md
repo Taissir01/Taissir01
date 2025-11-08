@@ -16,6 +16,14 @@ Voici quelques-uns de mes principaux projets 👇
 
 ---
 
+## 🧠 Compétences
+
+- **Langages :** C, Python (bases), HTML, CSS, JavaScript  
+- **Outils :** GitHub, Visual Studio, VS Code, Makefile  
+- **Méthodes :** algorithmique, logique de jeu, structuration de code, gestion de projet en équipe  
+
+---
+
 📫 **Contact :**  
 [🔗 LinkedIn](https://linkedin.com/in/taissir-rguig)  
 ✉️ [taissirrguig@gmail.com](mailto:taissirrguig@gmail.com)
