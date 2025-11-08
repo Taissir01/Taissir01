@@ -11,10 +11,8 @@ Voici quelques-uns de mes principaux projets 👇
 
 | Projet | Description | Langage |
 |--------|--------------|----------|
-| [🎮 CardYard](https://github.com/Taissir01/cardyard-c-game) | Jeu de cartes multijoueur développé en C | C |
-| [🌿 Hôpital durable](https://github.com/Taissir01/hospital-ghg-reduction) | Projet sur la réduction des émissions de gaz à effet de serre dans les hôpitaux | Python / Analyse |
-| [⚙️ Site HTML](https://github.com/Taissir01/html-website-cergy) | Site web étudiant en HTML/CSS/JS | Web |
-| [📊 Étude sport étudiant](https://github.com/Taissir01/sport-access-study) | Analyse sur les freins à la pratique du sport chez les étudiants | Data / Sondage |
+| [🎮 CardYard](https://github.com/Taissir01/cardyard-c-game) | Jeu de cartes multijoueur développé en **C** : gestion de pioche, défausse, et classement des joueurs. | C |
+| [⚙️ Site HTML](https://github.com/Taissir01/html-website-cergy) | Site web étudiant conçu en **HTML/CSS/JS**, présentant un espace d’information dynamique. | Web |
 
 ---
 
