@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 Je suis **Taissir Rguig**, étudiante en 2ᵉ année à **CY Tech** (pré-ingénieure en **mathématiques, informatique et physique**).  
-Je m’intéresse à la **data analysis**, à la **programmation**, et à la **modélisation mathématique**.  
+Je m’intéresse à la **data analysis**, à la **programmation**, et à la **modélisation mathématique**.   
 
 Voici quelques-uns de mes principaux projets 👇  
 
