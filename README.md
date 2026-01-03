@@ -1,30 +1,80 @@
-# 👋 Bienvenue sur mon GitHub !
+# 👋 Bienvenue sur mon GitHub
 
-Je suis **Taissir Rguig**, étudiante en 2ᵉ année à **CY Tech** (pré-ingénieure en **mathématiques, informatique et physique**).  
-Je m’intéresse à la **data analysis**, à la **programmation**, et à la **modélisation mathématique**.   
+Je m’appelle **Taissir Rguig** et je suis actuellement étudiante en **cycle pré-ingénieur à CY Tech**
+en **mathématiques et informatique** (niveau bac+2).
 
-Voici quelques-uns de mes principaux projets 👇  
+J’aime comprendre comment les choses fonctionnent, résoudre des problèmes concrets et transformer
+des idées en programmes fonctionnels. Mon parcours m’a naturellement amenée à m’intéresser à
+l’**algorithmique**, au **traitement de données** et à la **programmation**, en particulier en
+**langage C** et **Python**.
+
+Ce GitHub regroupe des **projets réalisés dans le cadre de mes études**, qui reflètent ma façon de
+travailler : rigueur, logique, curiosité et envie de progresser.
 
 ---
 
-## 💻 Projets
+## 💻 Quelques projets
 
-| Projet | Description | Langage |
-|--------|--------------|----------|
-| [🎮 CardYard](https://github.com/Taissir01/cardyard-c-game) | Jeu de cartes multijoueur développé en **C** : gestion de pioche, défausse, et classement des joueurs. | C |
-| [⚙️ Site HTML](https://github.com/Taissir01/html-website-cergy) | Site web étudiant conçu en **HTML/CSS/JS**, présentant un espace d’information dynamique. | Web |
+### 🌊 WildWater — Analyse de données volumineuses (C / Shell)
+📍 Projet académique – CY Tech
+
+Ce projet consiste à analyser un **fichier CSV de très grande taille** (plus de 8 millions de lignes)
+afin d’en extraire des informations utiles.
+
+Concrètement, j’ai travaillé sur :
+- le parsing et le traitement de données en **C**
+- l’optimisation des calculs à l’aide de **structures de données** (arbres AVL)
+- l’automatisation des traitements avec **Shell** et **Makefile**
+- la production d’analyses sous forme d’**histogrammes**
+
+C’est un projet qui m’a permis de travailler sur la **performance**, la **gestion de volumes importants**
+et la **structuration du code**.
+
+---
+
+### 🎮 CardYard — Jeu de cartes multijoueur en C
+🔗 https://github.com/Taissir03/cardyard-c-game
+
+CardYard est un jeu de cartes multijoueur développé en **langage C**.
+
+J’y ai implémenté :
+- la logique complète du jeu (distribution, tours, classement)
+- l’utilisation de **structures de données**
+- un affichage en ASCII avec gestion des couleurs
+- la sauvegarde et le rechargement des parties
+
+Ce projet m’a surtout appris à écrire un code **clair**, **structuré** et maintenable.
+
+---
+
+### ⚙️ Site Web étudiant — HTML / CSS / JavaScript
+🔗 https://github.com/Taissir03/html-website-cergy
+
+Un projet plus orienté web, réalisé pour apprendre les bases de la conception d’un site :
+- structuration HTML
+- mise en forme avec CSS
+- interactions simples en JavaScript
 
 ---
 
 ## 🧠 Compétences
 
-- **Langages :** C, Python (bases), HTML, CSS, JavaScript  
-- **Outils :** GitHub, Visual Studio, VS Code, Makefile  
-- **Méthodes :** algorithmique, logique de jeu, structuration de code, gestion de projet en équipe  
+- **Langages :** C (avancé), Python, Shell (Bash), HTML, CSS, JavaScript  
+- **Algorithmique :** structures de données, logique, résolution de problèmes  
+- **Data :** parsing, filtrage et traitement de fichiers volumineux  
+- **Environnement :** Linux / Unix, terminal  
+- **Outils :** Git / GitHub, VS Code, Makefile  
 
 ---
 
-📫 **Contact :**  
+## 🎯 Ce que je recherche
+Je suis actuellement à la recherche d’une **alternance en informatique**, avec une ouverture vers
+la **data** et la **finance**, afin de mettre en pratique mes compétences et continuer à apprendre
+au contact d’un environnement professionnel.
+
+---
+
+📫 **Me contacter**
 [🔗 LinkedIn](https://linkedin.com/in/taissir-rguig)  
 ✉️ [taissirrguig@gmail.com](mailto:taissirrguig@gmail.com)
 
