@@ -16,7 +16,7 @@ travailler : rigueur, logique, curiosité et envie de progresser.
 ## 💻 Quelques projets
 
 ### 🌊 WildWater — Analyse de données volumineuses (C / Shell)
-https://github.com/Taissir01/Projet-info-3
+🔗 https://github.com/Taissir01/Projet-info-3
 📍 Projet académique – CY Tech
 
 Ce projet consiste à analyser un **fichier CSV de très grande taille** (plus de 8 millions de lignes)
@@ -34,7 +34,7 @@ et la **structuration du code**.
 ---
 
 ### 🎮 CardYard — Jeu de cartes multijoueur en C
-🔗 [https://github.com/Taissir03/cardyard-c-game](https://github.com/Taissir01/cardyard-c-game)
+🔗 https://github.com/Taissir01/cardyard-c-game
 
 CardYard est un jeu de cartes multijoueur développé en **langage C**.
 
@@ -49,8 +49,6 @@ Ce projet m’a surtout appris à écrire un code **clair**, **structuré** et m
 ---
 
 ### ⚙️ Site Web étudiant — HTML / CSS 
-🔗 https://github.com/Taissir03/html-website-cergy
-
 Un projet plus orienté web, réalisé pour apprendre les bases de la conception d’un site :
 - structuration HTML
 - mise en forme avec CSS
