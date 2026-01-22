@@ -17,6 +17,7 @@ travailler : rigueur, logique, curiosité et envie de progresser.
 
 ### 🌊 WildWater — Analyse de données volumineuses (C / Shell)
 🔗 https://github.com/Taissir01/Projet-info-3
+
 📍 Projet académique – CY Tech
 
 Ce projet consiste à analyser un **fichier CSV de très grande taille** (plus de 8 millions de lignes)
