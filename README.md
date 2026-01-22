@@ -47,7 +47,7 @@ Ce projet m’a surtout appris à écrire un code **clair**, **structuré** et m
 
 ---
 
-### ⚙️ Site Web étudiant — HTML / CSS / JavaScript
+### ⚙️ Site Web étudiant — HTML / CSS 
 🔗 https://github.com/Taissir03/html-website-cergy
 
 Un projet plus orienté web, réalisé pour apprendre les bases de la conception d’un site :
