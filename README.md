@@ -34,7 +34,7 @@ et la **structuration du code**.
 ---
 
 ### 🎮 CardYard — Jeu de cartes multijoueur en C
-🔗 https://github.com/Taissir03/cardyard-c-game
+🔗 [https://github.com/Taissir03/cardyard-c-game](https://github.com/Taissir01/cardyard-c-game)
 
 CardYard est un jeu de cartes multijoueur développé en **langage C**.
 
