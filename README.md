@@ -35,12 +35,23 @@ et la **structuration du code**.
 
 
 ---
+### 🌊 Oceanora — Plateforme de commande & livraison restaurant (Full-Stack)
 
-### ⚙️ Site Web étudiant — HTML / CSS 
-Un projet plus orienté web, réalisé pour apprendre les bases de la conception d’un site :
-- structuration HTML
-- mise en forme avec CSS
-- interactions simples en JavaScript
+🔗 https://github.com/xRavess/Projet_Info_S4
+
+📍 Projet académique – CY Tech (2025-2026, en équipe)
+
+**Oceanora** est une application web complète simulant le cycle de vie d'une commande de restaurant : de l'inscription du client jusqu'à la notation finale, en passant par le paiement sécurisé via une interface CY Bank.
+
+**Côté technique :**
+- Conception d'une **base de données relationnelle** et architecture multi-pages PHP
+- Implémentation de **5 rôles utilisateurs** avec permissions différenciées (Administrateur, Restaurateur, Livreur, Client)
+- **Workflow séquentiel** : Profil → Panier → Paiement → Préparation → Livraison → Notation
+- Système de notation à **déblocage conditionnel** (uniquement après confirmation de livraison)
+
+**Stack :** PHP, JavaScript, HTML/CSS, SQL
+
+Ce projet m'a permis de travailler sur la **modélisation de données**, la **logique métier** et la **gestion d'états** dans une application multi-utilisateurs.
 
 ---
 
