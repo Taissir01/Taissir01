@@ -32,7 +32,18 @@ Concrètement, j’ai travaillé sur :
 C’est un projet qui m’a permis de travailler sur la **performance**, la **gestion de volumes importants**
 et la **structuration du code**.
 
+
+
 ---
+
+### ⚙️ Site Web étudiant — HTML / CSS 
+Un projet plus orienté web, réalisé pour apprendre les bases de la conception d’un site :
+- structuration HTML
+- mise en forme avec CSS
+- interactions simples en JavaScript
+
+---
+
 
 ### 🎮 CardYard — Jeu de cartes multijoueur en C
 🔗 https://github.com/Taissir01/cardyard-c-game
@@ -46,17 +57,7 @@ J’y ai implémenté :
 - la sauvegarde et le rechargement des parties
 
 Ce projet m’a surtout appris à écrire un code **clair**, **structuré** et maintenable.
-
 ---
-
-### ⚙️ Site Web étudiant — HTML / CSS 
-Un projet plus orienté web, réalisé pour apprendre les bases de la conception d’un site :
-- structuration HTML
-- mise en forme avec CSS
-- interactions simples en JavaScript
-
----
-
 ## 🧠 Compétences
 
 - **Langages :** C (avancé), Python, Shell (Bash), HTML, CSS, JavaScript  
@@ -75,7 +76,7 @@ au contact d’un environnement professionnel.
 ---
 
 📫 **Me contacter**
-[🔗 LinkedIn](https://linkedin.com/in/taissir-rguig)  
-✉️ [taissirrguig@gmail.com](mailto:taissirrguig@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/taissir-rguig-419871363/)  
+✉️ [taissirrguig4@gmail.com](mailto:taissirrguig4@gmail.com)
 
 
