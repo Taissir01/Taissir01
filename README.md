@@ -71,11 +71,10 @@ Ce projet m’a surtout appris à écrire un code **clair**, **structuré** et m
 ---
 ## 🧠 Compétences
 
-- **Langages :** C (avancé), Python, Shell (Bash), HTML, CSS, JavaScript  
-- **Algorithmique :** structures de données, logique, résolution de problèmes  
-- **Data :** parsing, filtrage et traitement de fichiers volumineux  
-- **Environnement :** Linux / Unix, terminal  
-- **Outils :** Git / GitHub, VS Code, Makefile  
+- **Data & Analytics :** Python (pandas, NumPy, matplotlib), SQL, statistiques descriptives & inférentielles, traitement de données massives, nettoyage et préparation de données
+- **BI & Bureautique :** Excel (TCD, formules, VBA), Power BI *(en cours)*, LaTeX
+- **Programmation :** C (algorithmique avancée, structures de données, gestion mémoire), Bash, notions Web (PHP, JavaScript, HTML/CSS)
+- **Environnement & Outils :** Linux/Unix, Git/GitHub, VS Code, Makefile 
 
 ---
 
