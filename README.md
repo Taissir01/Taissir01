@@ -18,7 +18,7 @@ travailler : rigueur, logique, curiosité et envie de progresser.
 ### 🌊 WildWater — Analyse de données volumineuses (C / Shell)
 🔗 https://github.com/Taissir01/Projet-info-3
 
-📍 Projet académique – CY Tech
+📍 Projet académique – CY Tech (en équipe de 3)
 
 Ce projet consiste à analyser un **fichier CSV de très grande taille** (plus de 8 millions de lignes)
 afin d’en extraire des informations utiles.
@@ -37,9 +37,7 @@ et la **structuration du code**.
 ---
 ### 🌊 Oceanora — Plateforme de commande & livraison restaurant (Full-Stack)
 
-🔗 https://github.com/xRavess/Projet_Info_S4
-
-📍 Projet académique – CY Tech (2025-2026, en équipe)
+📍 Projet académiqu en cours– CY Tech (en équipe de 3)
 
 **Oceanora** est une application web complète simulant le cycle de vie d'une commande de restaurant : de l'inscription du client jusqu'à la notation finale, en passant par le paiement sécurisé via une interface CY Bank.
 
